@@ -12,13 +12,13 @@ Business Problem : From 2015 to 2017, hotels experienced a high number of bookin
 
 The analysis will be conducted to answer the following questions:
 
-What was the portion of booking cancellations for each hotel?
-What country has the highest booking cancellation rate?
-Did the frequency of cancellations increase year over year?
-How has the ADR fluctuated between bookings and cancelatons?
-Which hotel was more profitable and experienced fewer booking cancelations?
-When was the peak booking season for each hotel type?
-Did lead time affect booking cancellations?
-Was there any correlation between deposit type and booking cancellations?
-Did meals and special requests affect ADR?
-Did booking cancellations impact the hotel's potential revenue loss?
+1. What was the portion of booking cancellations for each hotel?
+2. What country has the highest booking cancellation rate?
+3. Did the frequency of cancellations increase year over year?
+4. How has the ADR fluctuated between bookings and cancelatons?
+5. Which hotel was more profitable and experienced fewer booking cancelations?
+6. When was the peak booking season for each hotel type?
+7. Did lead time affect booking cancellations?
+8. Was there any correlation between deposit type and booking cancellations?
+9. Did meals and special requests affect ADR?
+10. Did booking cancellations impact the hotel's potential revenue loss?
