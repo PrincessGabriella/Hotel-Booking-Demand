@@ -1,6 +1,6 @@
 # Hotel-Booking-Demand
 
-This dataset contains booking information for a city hotel and a resort hotel from Kaggle. It is originally from the article written by Nuno Antonio, Ana de Almeida, and Luis Nunes for Data in Brief, Vol. 22, 2019.
+This dataset contains booking information for a city hotel and a resort hotel from Kaggle (link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data). It is originally from the article written by Nuno Antonio, Ana de Almeida, and Luis Nunes for Data in Brief, Vol. 22, 2019 (link: https://www.sciencedirect.com/science/article/pii/S2352340918315191).
 
 ## Background
 
